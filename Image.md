@@ -14,11 +14,30 @@ show() #heartflow in polar coordinates
 T=np.linspace(0,2*np.pi,520)
 X=(2*np.cos(T)-np.cos(2*T))
 Y=(2*np.sin(T)-np.sin(2*T))
-plot(Y,X,color='pink')
+plot(Y,X,color='pink',label='love')
+xlabel('弧度')
+ylabel('daddy')
+title('0.0')
+grid(True)
+legend(loc='upper right')
 show() #heartflow in rectangular coordinates
 
 m=np.linspace(0,8*np.pi,1314)
 a=(1+2*m)*np.cos(m)
 b=(1+2*m)*np.sin(m)
 plot(b,a,color='red')
+grid(True)
 show() #This one may be better. Why? Love is always endless.
+
+data=np.random.randint(1,11,5)
+pie(data,explode=[0,0,-0.3,0,0])
+
+from sklearn import datasets
+iris=datasets.load_iris()
+X=iris.data
+y=iris.target
+z1=y==0
+plot(X[z1,0],X[z1,1],'ro')
+z1=y==1
+plot(X[z1,1],X[z1,2],'ko')
+show()
