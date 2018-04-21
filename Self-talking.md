@@ -27,5 +27,3 @@ I don't know what to say.
 
 Ahhhh.
 To be better.
-
-Sb.
