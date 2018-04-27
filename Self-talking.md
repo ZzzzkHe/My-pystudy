@@ -15,7 +15,6 @@ Good night to myself.
 
 Again.
 
-Emmmm.....
 
 Today I'm doing something else.
 DDL is the first  productivity.Hhhh   wtf！！
