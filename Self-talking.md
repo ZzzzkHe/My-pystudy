@@ -37,4 +37,4 @@ Bingo.
 
 Tomorrow  go studying.
 
-I have done.LLLL  mua~
+I have done.
