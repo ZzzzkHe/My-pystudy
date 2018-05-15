@@ -31,6 +31,5 @@ I don't know......maybe it's wrong.
 
 I love you.
 
-what am I doing?
 
 
