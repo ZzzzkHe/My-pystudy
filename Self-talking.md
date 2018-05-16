@@ -18,7 +18,6 @@ Again.
 Again and again.
 
 Today I'm doing something else.
-DDL is the first  productivity.Hhhh   wtf！！
 
 I don't know what to say.
 
