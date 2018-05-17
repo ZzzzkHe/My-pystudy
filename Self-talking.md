@@ -24,10 +24,6 @@ I don't know what to say.
 Ahhhh.
 To be better.
 
-I'm doing other things.
-
-I don't know......maybe it's wrong.
-
 I love you.
 
 
