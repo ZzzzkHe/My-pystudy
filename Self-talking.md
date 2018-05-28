@@ -36,9 +36,4 @@ wowowowowow！
 
 I will do my work tommorow again.
 
-Yep.
 
-Stop.
-
-
-Noob kang.
