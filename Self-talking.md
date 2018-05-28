@@ -15,8 +15,6 @@ Good night to myself.
 
 Again.
 
-Again and again.
-
 Today I'm doing something else.
 
 I don't know what to say.
