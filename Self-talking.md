@@ -23,11 +23,3 @@ Ahhhh.
 To be better.
 
 I love you.
-
-But why am I so nervous???
-Why??  I want to be better!Uhhh!
-
-Em......It seems all is OK.
-
-Soooo，lovely girl！
-wowowowowow！
