@@ -23,5 +23,3 @@ Ahhhh.
 To be better.
 
 I love you.
-
-Yeah
