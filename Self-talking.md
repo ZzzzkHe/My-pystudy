@@ -21,5 +21,3 @@ I don't know what to say.
 To be better.
 
 I love you.
-
-A little sad.
