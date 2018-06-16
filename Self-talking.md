@@ -17,7 +17,5 @@ Again.
 
 Today I'm doing something else.
 
-I don't know what to say.
-To be better.
 
 I love you.
