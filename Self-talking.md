@@ -13,8 +13,6 @@ And I can practice my English here, yeah? ^_^
 
 Good night to myself.
 
-Again.
-
 Today I'm doing something else.
 
 
