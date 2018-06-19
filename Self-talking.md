@@ -1,5 +1,4 @@
-Emmm...
-I'm really confused about how to study.
+
 I decided to keep my Github up-to-date everyday, but I find this goal hard to reach.
 Data structures and algorithms are what I'm going to learn.
 However, I asked myself how to start many times and I have no answer.
