@@ -10,8 +10,6 @@ I can take my time to do what I want to do.
 Hhhh...
 And I can practice my English here, yeah? ^_^
 
-Good night to myself.
-
 Today I'm doing something else.
 
 
